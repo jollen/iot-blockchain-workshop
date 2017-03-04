@@ -28,7 +28,7 @@ server.start({
     onquery: onquery,
     ondata: ondata,
     join: {
-        address: '192.168.0.1',
+        address: '10.186.110.91',
         port: '8000'
     }
 });
