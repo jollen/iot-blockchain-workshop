@@ -17,6 +17,7 @@ $ git clone https://github.com/jollen/flowchain-core.git
 $ npm install
 $ export HOST=10.186.110.91
 $ export PORT=8000
+$ export DEBUGSERVER=10.186.110.91
 ```
 修改 node.js 主程式：
 
@@ -33,6 +34,12 @@ server.start({
     }
 });
 ```
+執行程式：
+
+```
+$ node node.js
+```
+
 教室現場會準備 2 個 peer-to-peer 的 node，請修改 ```join``` 參數，加入任一個 peer node 即可。
 
 ## 挖礦
