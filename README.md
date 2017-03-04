@@ -13,7 +13,7 @@
 下載 Flowchain 系統：
 
 ```
-<TBD>
+$ git clone https://github.com/jollen/flowchain-core.git
 ```
 修改 peer.js 主程式：
 
