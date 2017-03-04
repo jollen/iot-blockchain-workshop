@@ -14,6 +14,7 @@
 
 ```
 $ git clone https://github.com/jollen/flowchain-core.git
+$ npm install
 ```
 修改 peer.js 主程式：
 
