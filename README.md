@@ -15,6 +15,8 @@
 ```
 $ git clone https://github.com/jollen/flowchain-core.git
 $ npm install
+$ export HOST=10.186.110.91
+$ export PORT=8000
 ```
 修改 peer.js 主程式：
 
