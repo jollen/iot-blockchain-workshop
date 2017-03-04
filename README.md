@@ -45,3 +45,8 @@ function distributions.norm.pdf(x, mu, sigma)
     return cephes.exp(-.5 * (x-mu)*(x-mu)/(sigma*sigma)) / math.sqrt(2.0*math.pi*sigma*sigma)
 end
 ```
+
+##
+
+* Flowchain, https://flowchain.io
+* BlockchainComputingFinTech + Cryptocurrency Top 10 Blockchain Companies to Watch in 2017, http://www.disruptordaily.com/top-10-blockchain-companies-to-watch-in-2017/
