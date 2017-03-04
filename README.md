@@ -18,7 +18,7 @@ $ npm install
 $ export HOST=10.186.110.91
 $ export PORT=8000
 ```
-修改 peer.js 主程式：
+修改 node.js 主程式：
 
 ```
 // Start the server
