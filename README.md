@@ -49,4 +49,4 @@ end
 ## Resources
 
 * Flowchain, https://flowchain.io
-* BlockchainComputingFinTech + Cryptocurrency Top 10 Blockchain Companies to Watch in 2017, http://www.disruptordaily.com/top-10-blockchain-companies-to-watch-in-2017/
+* Top 10 Blockchain Companies to Watch in 2017, http://www.disruptordaily.com/top-10-blockchain-companies-to-watch-in-2017/
